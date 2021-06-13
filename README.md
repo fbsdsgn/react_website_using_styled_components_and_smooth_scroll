@@ -1,2 +1,2 @@
-# react_website_using_styled_components_and_smooth_scroll
+# React Website Using Styled Components and Smooth Scroll
 Tutorial by Brian Design
